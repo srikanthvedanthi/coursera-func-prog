@@ -17,6 +17,5 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
-.idea/workspace.xml
-/progfun1-example/.settings/
-/progfun1-funsets/.idea/
+.settings/*
+.idea/*
