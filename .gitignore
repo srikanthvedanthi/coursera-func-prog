@@ -18,3 +18,5 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 .idea/workspace.xml
+/progfun1-example/.settings/
+/progfun1-funsets/.idea/
